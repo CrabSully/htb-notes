@@ -1,0 +1,4 @@
+- Less reliable but simpler
+- Used for situations where package loss is acceptable
+- If user needs live, high speed connection, UDP is the best choice
+- Used for services like live streaming, video calls, gaming

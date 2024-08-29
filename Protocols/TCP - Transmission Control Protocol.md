@@ -1,0 +1,4 @@
+- The most common protocol
+- Used for web, sending emails, transferring files
+- Connection-Oriented - it establishes a connection between two devices before transferring data
+- SYN-ACK - waits for acknowledgement before sending next package
